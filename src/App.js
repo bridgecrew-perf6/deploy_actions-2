@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
       
         <p>
-          github deploy
+          g deploy
         </p>
        
       </header>
